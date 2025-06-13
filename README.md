@@ -23,8 +23,9 @@ cd blog_1
 
 
 desarrollado por
-Emanuel Moncada Neira 1115 Jt
+@hortegon
+
 # blog_1
 
 Con el apoyo de :
-@hortegon
+Emanuel Moncada Neira 1115 Jt
