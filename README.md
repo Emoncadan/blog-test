@@ -21,7 +21,10 @@ Bootstrap (opcional, para el diseño)
 git clone https://github.com/Emoncadan/Blog_1.git
 cd blog_1
 
-desarrollado por
 
+desarrollado por
 Emanuel Moncada Neira 1115 Jt
-# blog-test
+# blog_1
+
+Con el apoyo de :
+@hortegon
